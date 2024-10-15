@@ -1,0 +1,12 @@
+[submodule "cryptocurrency-icons"]
+	path = cryptocurrency-icons
+	url = https://github.com/spothq/cryptocurrency-icons.git
+[submodule "cryptocurrency-icons-erik"]
+	path = cryptocurrency-icons-erik
+	url = https://github.com/ErikThiart/cryptocurrency-icons
+[submodule "assetlists"]
+	path = assetlists
+	url = https://github.com/osmosis-labs/assetlists.git
+[submodule "crypto-logos"]
+	path = crypto-logos
+	url = https://github.com/cryptoradar-co/crypto-logos.git
